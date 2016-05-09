@@ -2,6 +2,7 @@
 
 My first RaspberryPi project done in 2014. The Pi takes audio output from a usb headset and applies a Fast Fourier Transform and then controls the LEDS. Project gets about 16 FPS on a Pi Model A.
 There is probably a couple of things that could be optimized. The leds are [Adafruit Dotstar](https://www.adafruit.com/products/2240).
+
 [Demonstration Video](https://youtu.be/-LMZxSWGLSQ)
 
 
